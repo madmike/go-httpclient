@@ -1,0 +1,5 @@
+# Go binaries
+server
+main
+httpclient
+go-httpclient
